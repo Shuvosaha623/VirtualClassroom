@@ -78,7 +78,7 @@ Welcome <a width="20%" href="admindashboard.php"><u>Admin</u></a> |
 
 
 
-</table>
+	</table>
 </form>
 
 
